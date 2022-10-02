@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: thedevslot/WhatATheme
+remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: thedevslot/WhatATheme
 markdown: kramdown
 #theme: minima
 plugins:
