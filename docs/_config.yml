@@ -32,7 +32,8 @@ github_username:  jekyll
 
 # Build settings
 remote_theme: thedevslot/WhatATheme
-theme: minima
+markdown: kramdown
+#theme: minima
 plugins:
   - jekyll-feed
 
