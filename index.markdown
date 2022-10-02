@@ -4,4 +4,6 @@
 
 layout: home
 ---
-### This is the home page for Lev1s Studio!
+### Home
+
+s
