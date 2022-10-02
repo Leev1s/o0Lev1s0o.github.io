@@ -29,6 +29,7 @@ github_username:  o0Lev1s0o
 
 # Build settings
 theme: minima
+markdown: GFM
 plugins:
   - jekyll-feed
 
