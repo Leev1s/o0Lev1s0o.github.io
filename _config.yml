@@ -158,4 +158,4 @@ social-links:
 
   - name: Bilibili
     url-pattern: 'space.bilibili.com/__USERNAME__'
-    icon-class: fab fa-2x fa-bilibili
+    icon-class: fa-brands fa-bilibili
