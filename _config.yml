@@ -154,7 +154,7 @@ social-links:
   - name: Email Me
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-envelope-open
+    icon-class: far fa-2x fa-envelope
 
   - name: Bilibili
     url-pattern: space.bilibili.com/__USERNAME__
