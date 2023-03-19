@@ -32,10 +32,11 @@ tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'laocan.icu'
-email: 'lao_can@outlook.com'
+Email Me: 'lao_can@outlook.com'
 messenger: 'myfbchat'
+Bilibili: '443025236'
 
-social-links-order: [blog_url, email]
+social-links-order: [Bilibili, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -150,7 +151,11 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: email
+  - name: Email Me
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+  - name: Bilibili
+    url-pattern: 'space.bilibili.com/__USERNAME__'
+    icon-class: fab fa-bilibili
